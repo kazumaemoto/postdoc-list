@@ -95,6 +95,11 @@ This is the list of postdoctor jobs.
 - Salary: $5,000 yen per month
 - Fund: $20,000 per year
 
+## [Banting Postdoctoral Fellowships](https://banting.fellowships-bourses.gc.ca/en/home-accueil.html)
+
+- Duration: 2 years
+- Salary: $70,000 yen per year
+
 ## [DLR-DAAD Research Fellowships](https://www.daad.de/en/study-and-research-in-germany/scholarships/dlr-daad-research-fellowships/)
 
 - Duration: 6 to 24 months
