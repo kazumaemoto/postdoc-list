@@ -56,6 +56,10 @@ This is the list of postdoctor jobs.
 - 任期：2〜5年
 - 給料：月額302,600万円
 
+## [AISTイノベーションスクール生](https://unit.aist.go.jp/innhr/inn-s/index.html)
+
+- 任期：1年
+
 ## [京都大学 白眉プロジェクト](https://www.hakubi.kyoto-u.ac.jp)
 
 - 任期：5年
