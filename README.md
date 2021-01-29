@@ -89,6 +89,11 @@ This is the list of postdoctor jobs.
 - Duration: 5 years at maximum
 - Salary: 791,000 yen per month
 
+## [Dorothy Hodgkin Fellowship](https://royalsociety.org/grants-schemes-awards/grants/dorothy-hodgkin-fellowship/)
+
+- Duration: 5 years
+- Fund: £13,000 in year one and £11,000 per year thereafter
+
 ## [EACOA fellowship](https://www.eacoa.net/fellowship.php)
 
 - Duration: 3 years
