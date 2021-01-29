@@ -15,6 +15,7 @@ This is the list of postdoctor jobs.
 ## [京都大学 白眉プロジェクト](https://www.hakubi.kyoto-u.ac.jp)
 
 - 任期：5年
+- 給料：京都大学の支給基準に基づく
 - 研究費：年間100〜400万円
 
 ## [JAXA International Top Young Fellowship](http://www.isas.jaxa.jp/en/researchers/ityf/index.html)
