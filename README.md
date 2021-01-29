@@ -18,6 +18,11 @@ This is the list of postdoctor jobs.
 - 給料：月額362,000円
 - 研究費：年間150万円以内
 
+## [JSPS特別研究員CPD](https://www.jsps.go.jp/j-pd/cpd_gaiyo.html)
+
+- 任期：3年
+- 給料：月額 446,000円
+
 ## [京都大学 白眉プロジェクト](https://www.hakubi.kyoto-u.ac.jp)
 
 - 任期：5年
