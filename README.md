@@ -104,3 +104,9 @@ This is the list of postdoctor jobs.
 
 - Duration: 6 to 24 months
 - Salary: 2,400 Euros per month
+
+## [ETHZ The Branco Weiss Fellowship](https://brancoweissfellowship.org)
+
+- Duration: 5 years
+- Salary: CHF 100,000 per year
+
