@@ -16,3 +16,8 @@ This is the list of postdoctor jobs.
 
 - 任期：5年
 - 研究費：年間100〜400万円
+
+## [JAXA International Top Young Fellowship](http://www.isas.jaxa.jp/en/researchers/ityf/index.html)
+
+- Duration: 5 years at maximum
+- Salary: 791,000 yen per month
