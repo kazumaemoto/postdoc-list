@@ -51,6 +51,11 @@ This is the list of postdoctor jobs.
 - 任期：最大3年
 - 給料：年額約450万円
 
+## [AISTプロジェクト型任期付研究員](https://www.aist.go.jp/aist_j/humanres/02kenkyu/project-a.html)
+
+- 任期：2〜5年
+- 給料：月額302,600万円
+
 ## [京都大学 白眉プロジェクト](https://www.hakubi.kyoto-u.ac.jp)
 
 - 任期：5年
