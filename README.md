@@ -37,19 +37,19 @@ This is the list of postdoctor jobs.
 ## [RIKEN基礎科学特別研究員制度](https://www.riken.jp/careers/programs/spdr/)
 
 - 任期：3年
-- 給料：年額487,000円
+- 給料：月額487,000円
 - 研究費：年間100万円
 
 ## [RIKEN白眉制度](https://www.riken.jp/careers/programs/riken-hakubi/)
 
 - 任期：最大7年
-- 給料：年額910,000円
+- 給料：月額910,000円
 - 研究費：年間1000〜4000万円
 
 ## [RIKEN加藤セチプログラム](https://www.riken.jp/careers/programs/kato_sechi/)
 
 - 任期：最大7年
-- 給料：年額910,000円
+- 給料：月額910,000円
 - 研究費：年間1000〜4000万円
 
 ## [JAXA任期付プロジェクト研究員採用](https://www.jaxa.jp/about/employ/project_staff_j.html)
@@ -60,7 +60,7 @@ This is the list of postdoctor jobs.
 ## [AISTプロジェクト型任期付研究員](https://www.aist.go.jp/aist_j/humanres/02kenkyu/project-a.html)
 
 - 任期：2〜5年
-- 給料：月額302,600万円
+- 給料：月額302,600円
 
 ## [AISTイノベーションスクール生](https://unit.aist.go.jp/innhr/inn-s/index.html)
 
