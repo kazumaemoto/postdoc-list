@@ -57,6 +57,12 @@ This is the list of postdoctor jobs.
 - 任期：最大3年
 - 給料：年額約450万円
 
+## [NAOJプロジェクト研究員](https://www.nao.ac.jp/about-naoj/employment/jobs-project-1.html)
+
+- 任期：3年
+- 給料：年額420万円
+- 研究費：年間50万円
+
 ## [AISTプロジェクト型任期付研究員](https://www.aist.go.jp/aist_j/humanres/02kenkyu/project-a.html)
 
 - 任期：2〜5年
