@@ -76,3 +76,8 @@ This is the list of postdoctor jobs.
 
 - Duration: 5 years at maximum
 - Salary: 791,000 yen per month
+
+## [DLR-DAAD Research Fellowships](https://www.daad.de/en/study-and-research-in-germany/scholarships/dlr-daad-research-fellowships/)
+
+- Duration: 6 to 24 months
+- Salary: 2,400 Euros per month
