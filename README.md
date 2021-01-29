@@ -29,6 +29,11 @@ This is the list of postdoctor jobs.
 - 任期：3年
 - 給料：月額 446,000円
 
+## [JSPS海外特別研究員RRA](https://www.jsps.go.jp/j-ab/rra_gaiyo.html)
+
+- 任期：2年
+- 給料：年額450〜620万円
+
 ## [京都大学 白眉プロジェクト](https://www.hakubi.kyoto-u.ac.jp)
 
 - 任期：5年
