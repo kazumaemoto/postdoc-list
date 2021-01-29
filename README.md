@@ -34,6 +34,12 @@ This is the list of postdoctor jobs.
 - 任期：2年
 - 給料：年額450〜620万円
 
+## [RIKEN基礎科学特別研究員制度](https://www.riken.jp/careers/programs/spdr/)
+
+- 任期：3年
+- 給料：年額487,000円
+- 研究費：年間100万円
+
 ## [京都大学 白眉プロジェクト](https://www.hakubi.kyoto-u.ac.jp)
 
 - 任期：5年
