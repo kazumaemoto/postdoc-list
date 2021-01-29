@@ -46,6 +46,12 @@ This is the list of postdoctor jobs.
 - 給料：年額910,000円
 - 研究費：年間1000〜4000万円
 
+## [RIKEN加藤セチプログラム](https://www.riken.jp/careers/programs/kato_sechi/)
+
+- 任期：最大7年
+- 給料：年額910,000円
+- 研究費：年間1000〜4000万円
+
 ## [JAXA任期付プロジェクト研究員採用](https://www.jaxa.jp/about/employ/project_staff_j.html)
 
 - 任期：最大3年
