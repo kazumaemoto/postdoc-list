@@ -10,3 +10,8 @@ This is the list of postdoctor jobs.
 
 - 任期：3年
 - 給料：月額362,000円
+
+## [京都大学 白眉プロジェクト](https://www.hakubi.kyoto-u.ac.jp)
+
+- 任期：5年
+- 研究費：年間100〜400万円
