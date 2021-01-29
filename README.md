@@ -46,6 +46,11 @@ This is the list of postdoctor jobs.
 - 給料：年額910,000円
 - 研究費：年間1000〜4000万円
 
+## [JAXA任期付プロジェクト研究員採用](https://www.jaxa.jp/about/employ/project_staff_j.html)
+
+- 任期：最大3年
+- 給料：年額約450万円
+
 ## [京都大学 白眉プロジェクト](https://www.hakubi.kyoto-u.ac.jp)
 
 - 任期：5年
