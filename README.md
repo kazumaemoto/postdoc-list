@@ -66,6 +66,12 @@ This is the list of postdoctor jobs.
 
 - 任期：1年
 
+## [NAOJフェロー](https://www.nao.ac.jp/about-naoj/employment/jobs-fellow.html)
+
+- 任期：5年
+- 給料：年額660万円
+- 研究費：年間100万円
+
 ## [京都大学 白眉プロジェクト](https://www.hakubi.kyoto-u.ac.jp)
 
 - 任期：5年
