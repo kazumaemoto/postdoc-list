@@ -94,6 +94,11 @@ This is the list of postdoctor jobs.
 - Duration: 5 years
 - Fund: £13,000 in year one and £11,000 per year thereafter
 
+## [Early Career Fellowships](https://www.leverhulme.ac.uk/early-career-fellowships)
+
+- Duration: 3 years
+- Salary: £50,000 in year one
+
 ## [EACOA fellowship](https://www.eacoa.net/fellowship.php)
 
 - Duration: 3 years
