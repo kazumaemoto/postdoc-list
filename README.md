@@ -83,6 +83,12 @@ This is the list of postdoctor jobs.
 - Duration: 5 years at maximum
 - Salary: 791,000 yen per month
 
+## [EACOA fellowship](https://www.eacoa.net/fellowship.php)
+
+- Duration: 3 years
+- Salary: $5,000 yen per month
+- Fund: $20,000 per year
+
 ## [DLR-DAAD Research Fellowships](https://www.daad.de/en/study-and-research-in-germany/scholarships/dlr-daad-research-fellowships/)
 
 - Duration: 6 to 24 months
