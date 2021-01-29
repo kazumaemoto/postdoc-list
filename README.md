@@ -40,6 +40,12 @@ This is the list of postdoctor jobs.
 - 給料：年額487,000円
 - 研究費：年間100万円
 
+## [RIKEN白眉制度](https://www.riken.jp/careers/programs/riken-hakubi/)
+
+- 任期：最大7年
+- 給料：年額910,000円
+- 研究費：年間1000〜4000万円
+
 ## [京都大学 白眉プロジェクト](https://www.hakubi.kyoto-u.ac.jp)
 
 - 任期：5年
