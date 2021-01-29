@@ -110,6 +110,11 @@ This is the list of postdoctor jobs.
 - Duration: 2 years
 - Salary: $70,000 yen per year
 
+## [DFG Emmy Noether Programme](https://www.dfg.de/en/research_funding/programmes/individual/emmy_noether/index.html)
+
+- Duration: 6 years
+
+
 ## [DLR-DAAD Research Fellowships](https://www.daad.de/en/study-and-research-in-germany/scholarships/dlr-daad-research-fellowships/)
 
 - Duration: 6 to 24 months
