@@ -3,9 +3,6 @@
 ポスドクの一覧です。  
 This is the list of postdoctor jobs.
 
-[Source](https://github.com/kazumaemoto/postdoc-list)  
-[HTML](https://kazumaemoto.github.io/postdoc-list/)
-
 ## [JSPS特別研究員PD](https://www.jsps.go.jp/j-pd/index.html)
 
 - 任期：3年
@@ -125,3 +122,8 @@ This is the list of postdoctor jobs.
 - Duration: 5 years
 - Salary: CHF 100,000 per year
 
+---
+
+This page was written by [Kazuma Emoto](https://github.com/kazumaemoto).
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
+[Source code](https://github.com/kazumaemoto/postdoc-list)
