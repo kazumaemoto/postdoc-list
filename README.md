@@ -81,6 +81,10 @@ This is the list of postdoctor jobs.
 - 給料：京都大学の支給基準に基づく
 - 研究費：年間100〜400万円
 
+## [村田海外留学奨学会](https://www.muratec.jp/murata-scholarship/scholarship/)
+
+- 期間：最大1年
+
 ## [JAXA International Top Young Fellowship](http://www.isas.jaxa.jp/en/researchers/ityf/index.html)
 
 - Duration: 5 years at maximum
