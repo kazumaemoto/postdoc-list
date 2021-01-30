@@ -85,6 +85,11 @@ This is the list of postdoctor jobs.
 
 - 期間：最大1年
 
+### [吉田育英会 日本人派遣留学プログラム](http://www.ysf.or.jp)
+
+- 期間：2年
+- 支給額：月額200,000円
+
 ## [JAXA International Top Young Fellowship](http://www.isas.jaxa.jp/en/researchers/ityf/index.html)
 
 - Duration: 5 years at maximum
