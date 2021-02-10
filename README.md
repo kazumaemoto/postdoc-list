@@ -99,6 +99,11 @@ This is the list of postdoctor jobs.
 - 期間：2年
 - 支給額：月額200,000円
 
+### [渡邉財団 渡邉利三国際奨学金](https://www.watanabe-zaidan.or.jp)
+
+- 期間：3〜10ヶ月
+- 支給額：月額150,000円
+
 ### [Dorothy Hodgkin Fellowship](https://royalsociety.org/grants-schemes-awards/grants/dorothy-hodgkin-fellowship/)
 
 - Duration: 5 years
